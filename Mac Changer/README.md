@@ -1,4 +1,4 @@
-This tool will help your MAC addres. 
+This tool will help cange your MAC addres. 
 
 Use case: 
 	python mac_changer.py -i wlan0 -m 00:11:22:33:44:55
